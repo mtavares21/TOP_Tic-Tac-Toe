@@ -6,6 +6,7 @@ body{
  align-items: center;
  flex-wrap: wrap;
  justify-content: center;
+ margin: 0px;
 }
 
 h1{
@@ -326,7 +327,7 @@ border-right-style: solid;
   transform: rotate(45deg);
   position: fixed;
   z-index: 10;
-  margin-top: 760px;
+  margin-top: 720px;
 }
 .diagonal2{
   background: black;
@@ -338,7 +339,7 @@ border-right-style: solid;
   transform: rotate(-45deg);
   position: fixed;
   z-index: 10;
-  margin-top: 760px;
+  margin-top: 720px;
 }
 .line0{
  background: black;
@@ -350,7 +351,7 @@ border-right-style: solid;
   transform: rotate(0deg);
   position: fixed;
   z-index: 10;
-  margin-top: 550px;
+  margin-top: 505px;
 }
 .line3{
   background: black;
@@ -362,7 +363,7 @@ border-right-style: solid;
   transform: rotate(0deg);
   position: fixed;
   z-index: 10;
-  margin-top: 760px;
+  margin-top: 710px;
 }
 .line6{
  background: black;
@@ -374,7 +375,7 @@ border-right-style: solid;
  transform: rotate(0deg);
  position: fixed;
  z-index: 10;
- margin-top: 970px;
+ margin-top: 920px;
 }
 .column0{
  background: black;
@@ -386,7 +387,7 @@ border-right-style: solid;
  transform: rotate(90deg);
  position: fixed;
  z-index: 10;
- margin-top: 760px;
+ margin-top: 720px;
  margin-left:-195px;
 }
 .column1{
@@ -399,7 +400,7 @@ border-right-style: solid;
  transform: rotate(90deg);
  position: fixed;
  z-index: 10;
- margin-top: 760px;
+ margin-top: 720px;
 }
 .column2{
  background: black;
@@ -411,6 +412,6 @@ border-right-style: solid;
  transform: rotate(90deg);
  position: fixed;
  z-index: 10;
- margin-top: 760px;
+ margin-top: 720px;
  margin-left: 225px;
 }
