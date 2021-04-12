@@ -16,3 +16,4 @@ the best move by maximizing the score on the "computer" turn and minimizing on y
 
 #### Can you beat the Computer ???
 
+https://mtavares21.github.io/TOP_Tic-Tac-Toe/tic.html
